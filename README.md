@@ -1,7 +1,9 @@
 a turn-based war server,just for study
 
 ## Compile
-    see [skynet](https://github.com/cloudwu/skynet)
+```
+    see https://github.com/cloudwu/skynet
+```
 ## StartServer
 ```
     ./skynet ../src/gamelogic/config/warsrv.config
