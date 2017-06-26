@@ -1,0 +1,8 @@
+require "gamelogic.war.objmgr"
+require "gamelogic.war.selector"
+require "gamelogic.war.aura.init"
+require "gamelogic.war.buff.init"
+require "gamelogic.war.effect.init"
+require "gamelogic.war.skill.init"
+require "gamelogic.war.warobj.init"
+require "gamelogic.war.war"

@@ -1,0 +1,17 @@
+##Compile
+```
+	see [skynet](https://github.com/cloudwu/skynet)
+```
+##StartServer
+```
+	./skynet ../src/gamelogic/config/warsrv.config
+```
+##Run Test
+```
+	unittest.test_war()
+```
+##Control
+```
+	telnet 127.0.0.1 8000
+```
+
