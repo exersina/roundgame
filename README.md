@@ -1,17 +1,17 @@
-##Compile
+a turn-based war server,just for study
+
+## Compile
+    see [skynet](https://github.com/cloudwu/skynet)
+## StartServer
 ```
-	see [skynet](https://github.com/cloudwu/skynet)
+    ./skynet ../src/gamelogic/config/warsrv.config
 ```
-##StartServer
+## Run Test
 ```
-	./skynet ../src/gamelogic/config/warsrv.config
+    unittest.test_war()
 ```
-##Run Test
+## Control
 ```
-	unittest.test_war()
-```
-##Control
-```
-	telnet 127.0.0.1 8000
+    telnet 127.0.0.1 8000
 ```
 
